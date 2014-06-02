@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Sakshat Applets</title>
+    <link>http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets.html</link>
+    <description>Sakshat Applets</description>
+    <item>
+      <title>Sphere at rest on plane surface</title>
+      <link>http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets.html#0</link>
+      <guid isPermaLink="false">3e9f7c70-dfd0-45ba-ba24-ade6d860a39d</guid>
+      <enclosure url="http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets_files/Media/Sphere%20on%20plane%20surface/Sphere%20on%20plane%20surface.jpg" length="38029" type="image/jpeg"/>
+      <iphoto:thumbnail>http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets_files/Media/Sphere%20on%20plane%20surface/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets_files/Media/Sphere%20on%20plane%20surface/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Sphere at rest on plane surface&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Sphere at rest on Incline</title>
+      <link>http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets.html#1</link>
+      <guid isPermaLink="false">bc3d175a-37fd-4f21-a2cc-4ba20974f43d</guid>
+      <enclosure url="http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets_files/Media/Sphere%20on%20Incline/Sphere%20on%20Incline.jpg" length="38933" type="image/jpeg"/>
+      <iphoto:thumbnail>http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets_files/Media/Sphere%20on%20Incline/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets_files/Media/Sphere%20on%20Incline/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Sphere at rest on Incline&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Sphere rolling on incline</title>
+      <link>http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets.html#2</link>
+      <guid isPermaLink="false">8c57c68c-87e1-4eaa-bd91-efac9eb72e6b</guid>
+      <enclosure url="http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets_files/Media/Rolling%20on%20incline/Rolling%20on%20incline.jpg" length="56424" type="image/jpeg"/>
+      <iphoto:thumbnail>http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets_files/Media/Rolling%20on%20incline/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets_files/Media/Rolling%20on%20incline/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Sphere rolling on incline&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Sphere slipping on incline</title>
+      <link>http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets.html#3</link>
+      <guid isPermaLink="false">49ef2a98-006f-4854-bdbc-8fdec84e0990</guid>
+      <enclosure url="http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets_files/Media/Slipping%20on%20incline/Slipping%20on%20incline.jpg" length="53916" type="image/jpeg"/>
+      <iphoto:thumbnail>http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets_files/Media/Slipping%20on%20incline/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://bhsaurabh.github.io/Saurabhs_portfolio/Sakshat_Applets_files/Media/Slipping%20on%20incline/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Sphere slipping on incline&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
